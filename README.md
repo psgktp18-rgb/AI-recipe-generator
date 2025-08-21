@@ -14,8 +14,8 @@ This is a Flask-based web application that generates recipes based on user-provi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone AI-recipe-generator.git
+   cd AI-recipe-generator
    ```
 
 2. Create a virtual environment:
@@ -56,4 +56,5 @@ This is a Flask-based web application that generates recipes based on user-provi
    ```
    http://127.0.0.1:5000
    ```
+
 
