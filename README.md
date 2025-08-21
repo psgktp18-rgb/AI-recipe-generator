@@ -44,7 +44,9 @@ This is a Flask-based web application that generates recipes based on user-provi
      ```env
      GEMINI_API_KEY=your_api_key_here
      ```
-
+6. Create new folder named `templates`
+   - Move the index.html to templates folder
+     
 ## Running the Application
 
 1. Start the Flask development server:
@@ -56,6 +58,7 @@ This is a Flask-based web application that generates recipes based on user-provi
    ```
    http://127.0.0.1:5000
    ```
+
 
 
 
